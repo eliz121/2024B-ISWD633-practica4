@@ -1,5 +1,5 @@
 ### Mi aprendizaje
 
-Personalmente, antes de la práctica conocía lo básico de Docker y con esta práctica pude reforzar los conocimientos y a la vez aprender más sobre el uso y funcionamiento de Dockerfile y cómo es posible crear imágenes a partir de ello, lo que permitiría crear nuestras propias imágenes para los contenedores. 
+Antes de esta práctica, tenía conocimientos básicos sobre Docker, pero gracias a esta experiencia logré consolidarlos y aprender más sobre el uso y funcionamiento de Dockerfile, explorando cómo se pueden crear imágenes personalizadas a partir de este, lo que facilita construir imágenes propias para los contenedores.
 
-Por otro lado, se presentó el incoveniente de la descontinuidad de las actualizaciones de centOS lo que influía al momento de ejecutar los comandos. Aunque entre las alternativas para corregir este problema está la posibilidad de instalar una nueva distribución que cuente con actualizaciones o se podía cambiar en centOS Vault aunque no es una solución muy eficiente ya que utiliza versiones pasadas de centOS. 
+Sin embargo, surgió un inconveniente con la falta de actualizaciones en CentOS, lo cual afectaba la ejecución de ciertos comandos. Entre las alternativas para abordar este problema, se consideró instalar una nueva distribución con soporte activo o usar el repositorio CentOS Vault. Sin embargo, esta última opción no es muy eficiente, ya que trabaja con versiones antiguas de CentOS.
